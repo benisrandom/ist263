@@ -18,18 +18,18 @@ h1, h2 {
 }
 
 nav {
-    background-color: #003300;
+    background-color: purple;
     padding: 10px;
     margin-bottom: 30px;
 }
 
 nav a {
-    color: #ffa500;
+    color: #ffff00;
     font-weight: 900;
 }
 
 nav a:hover {
-    background-color: #0ca896;
+    background-color: blue;
 }
 
 .quote {
@@ -121,8 +121,8 @@ aside {
     nav a {
         width: 1em;
         display: block;
-        background-color: #003300;
-        color: #ffffff;
+        background-color: purple;
+        color: #ffff00;
         padding: 5px;
     }
     nav a:hover {
