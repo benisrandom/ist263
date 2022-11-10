@@ -18,7 +18,7 @@ h1, h2 {
 }
 
 nav {
-    background-color: purple;
+    background-color: #4d004d;
     padding: 10px;
     margin-bottom: 30px;
 }
@@ -121,7 +121,7 @@ aside {
     nav a {
         width: 1em;
         display: block;
-        background-color: purple;
+        background-color: #4d004d;
         color: #ffff00;
         padding: 5px;
     }
