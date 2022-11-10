@@ -8,7 +8,7 @@ body {
 }
 
 a {
-    color: #5f9df7;
+    color: #000080;
     font-weight: 600;
 }
 
@@ -18,13 +18,13 @@ h1, h2 {
 }
 
 nav {
-    background-color: #70898f;
+    background-color: #000066;
     padding: 10px;
     margin-bottom: 30px;
 }
 
 nav a {
-    color: #f7f0e4;
+    color: #ffffff;
     font-weight: 600;
 }
 
