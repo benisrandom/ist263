@@ -18,13 +18,13 @@ h1, h2 {
 }
 
 nav {
-    background-color: #000000;
+    background-color: #e6f4f7;
     padding: 10px;
     margin-bottom: 30px;
 }
 
 nav a {
-    color: #ffff00;
+    color: #000080;
     font-weight: 900;
 }
 
@@ -121,8 +121,8 @@ aside {
     nav a {
         width: 1em;
         display: block;
-        background-color: #000000;
-        color: #ffff00;
+        background-color: #e6f4f7;
+        color: #000080;
         padding: 5px;
     }
     nav a:hover {
