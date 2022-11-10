@@ -24,7 +24,7 @@ nav {
 }
 
 nav a {
-    color: #ffffff;
+    color: #ffa500;
     font-weight: 600;
 }
 
@@ -121,8 +121,8 @@ aside {
     nav a {
         width: 1em;
         display: block;
-        background-color: #70898f;
-        color: #f7f0e4;
+        background-color: #000066;
+        color: #ffffff;
         padding: 5px;
     }
     nav a:hover {
