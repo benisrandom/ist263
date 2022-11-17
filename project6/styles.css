@@ -1,4 +1,4 @@
-section {
+article {
     background-color: #d9eff6;
     border-radius: 10px;
     padding: 10px;
@@ -36,7 +36,6 @@ iframe {
     border: 5px solid #000000;
     max-width: 100%;
 }
-
 .arm {
     float: right;
     margin: 10px;
@@ -55,6 +54,7 @@ iframe {
 
 nav a:hover {
     background-color: #03a9f4;
+    border-radius: 5px;
 }
 
 p {
@@ -67,7 +67,7 @@ h2 {
 }
 
 .left {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .right {
@@ -84,5 +84,30 @@ h2 {
     }
     nav a:hover {
         width: 5em;
+        border-radius: 5px;
     }
+    .city {
+        max-width: 100%;
+        float: none;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+    iframe {
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.skip {
+    background-color: #d9eff6;
+    padding: 5px;
+    border: 1px solid #210d57;
+    position: absolute;
+    top: 30px;
+    left: -999px; 
+}
+.skip:focus {
+    left: 10px;
 }
