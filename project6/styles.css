@@ -9,6 +9,13 @@ body {
     background-color: #210d57;
 }
 
+h3 {
+    color: #210d57;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
 footer {
     text-align: center;
 }
