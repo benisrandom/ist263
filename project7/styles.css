@@ -77,8 +77,8 @@ iframe {
 }
 
 .armtext {
-    padding-left: 5px;
-    flex-basis: 45%
+    padding-left: 15px;
+    flex-basis: 55%
 }
 
 .city {
@@ -94,8 +94,8 @@ iframe {
 }
 
 .citytext {
-    padding-right: 10px;
-    flex-basis: 45%
+    padding-right: 20px;
+    flex-basis: 55%
 }
 
 nav a:hover {
